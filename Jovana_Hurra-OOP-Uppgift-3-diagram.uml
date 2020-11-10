@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Fighter</OriginalElement>
+  <nodes>
+    <node x="187.0" y="94.0">Fighter</node>
+    <node x="437.0" y="607.0">RollDice</node>
+    <node x="0.0" y="0.0">FighterDemo</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="FighterDemo" target="Fighter">
+      <point x="0.0" y="-5.0" />
+      <point x="297.0" y="22.0" />
+      <point x="5.0" y="0.0" />
+    </edge>
+    <edge source="Fighter" target="RollDice">
+      <point x="0.0" y="0.0" />
+      <point x="509.5" y="330.5" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Tree" zoom="0.7400881057268722" x="291.0" y="320.5" />
+  <SelectedNodes>
+    <node>RollDice</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
